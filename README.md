@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 # Olá! :upside_down_face:
 
-## Bem vidno ao meu perfil GitHub
+## Bem vindo ao meu perfil GitHub
+
+Atualmente estou estudando
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
