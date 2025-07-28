@@ -28,7 +28,7 @@ I'm currently Studying:
 
 ### Social Media
 
-[![FLipkart](/assets/img/buttons/flipkart.png)](https://www.flipkart.com/){:target="_blank"}
+[![Alt text for broken image link](assets/logo.png)](https://example.com){:target="_blank"}
 Works for Jekyll only but in others, it leaves {:target="_blank"} part as it is.
 
 
