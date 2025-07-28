@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 I'm currently Studing:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> +  <img loading="lazy" src="https://images.icon-icons.com/2699/PNG/512/mysql_logo_icon_169941.png" width="40" height="40"/>
-<img loading="lazy" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" width="40" height="40"/>
-<img loading="lazy" src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> +  <img loading="lazy" src="https://images.icon-icons.com/2699/PNG/512/mysql_logo_icon_169941.png" width="40" height="40"/><BR>
+<img loading="lazy" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" width="40" height="40"/><BR>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 
 
 
