@@ -13,17 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá! :upside_down_face:
+# Hello! :upside_down_face:
 
-## Bem vindo ao meu perfil GitHub 
+## Welcome to my GitHub Account
 
-- Sou técnico em Microinformática e atualmente curso bacharelado em Ciência da Computação
+- I'm an Info tech and currently enrolled in Computer Science by Centro Universitário UNA.
+- I'm currently working as Administrative Assessor, but my activities are related with analisys generating Mananger reports in Excel with functions, insert data and manange a great amount of data and information from other systems transforming .CSV documents in other types of document. Currently I'm creating BI panels.
+
+- 
 
 
-Atualmente estou estudando:
+I'm currently Studing:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> +  <img loading="lazy" src="https://images.icon-icons.com/2699/PNG/512/mysql_logo_icon_169941.png" width="40" height="40"/>
 <img loading="lazy" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" width="40" height="40"/>
+<img loading="lazy" src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" width="40" height="40"/>
 
 
 
