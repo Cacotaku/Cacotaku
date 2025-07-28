@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Welcome to my GitHub Account
 
-- I'm an Info tech and currently enrolled in Computer Science by Centro Universitário UNA.
+- I'm an Info technician and currently enrolled in Computer Science by Centro Universitário UNA.
 - I'm currently working as Administrative Assessor, but my activities are related with analisys generating Mananger reports in Excel with functions, insert data and manange a great amount of data and information from other systems transforming .CSV documents in other types of document. Currently I'm creating BI panels. 
 
 I'm currently Studying: 
