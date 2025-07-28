@@ -28,10 +28,6 @@ I'm currently Studying:
 
 ### Social Media
 
-[![Alt text for broken image link](assets/logo.png)](https://example.com){:target="_blank"}
-Works for Jekyll only but in others, it leaves {:target="_blank"} part as it is.
-
-[![My Linkedin Perfil]
-(https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg 'My Linkedin Perfil')] (https://www.linkedin.com/in/paulo-de-tarso-oliveira-20286135/)
+[![My Linkedin Perfil](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg 'My Linkedin Perfil')(https://www.linkedin.com/in/paulo-de-tarso-oliveira-20286135/)]
 
 
