@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello! :upside_down_face:
+# Greetings, you Human! :upside_down_face:
 
 ## Welcome to my GitHub Account
 
