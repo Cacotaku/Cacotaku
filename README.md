@@ -29,7 +29,10 @@ I'm currently Studying:
 <a href="http://google.com.au/" rel="some text" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
 
 ### Social Media
-<a href="https://www.linkedin.com/in/paulo-de-tarso-oliveira-20286135/" rel="" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"/></a> <a href="https://www.w3profile.com/Cacotaku/" rel="some text" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/paulo-de-tarso-oliveira-20286135/" rel="" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"/></a> Oh boy... That's a resume.
+<BR>
+<BR>
+<a href="https://www.w3profile.com/Cacotaku/" rel="some text" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg" width="40" height="40"/></a> Not learning from there, but doing some exercise to refresh my memory
 
 ---
 
