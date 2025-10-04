@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## Welcome to my GitHub Account
 
+- My name is Paulo de Tarso (with a little extra... few... it's a really long name)
 - I'm an Info technician and currently enrolled in Computer Science by Centro Universitário UNA.
+- I work with IT since 2010, having acted with development and support.
 - I'm currently working as Administrative Assessor, but my activities are related with analisys generating Mananger reports in Excel with functions, insert data and manange a great amount of data and information from other systems transforming .CSV documents in other types of document. Currently I'm creating BI panels. 
 
 I'm currently Studying: 
