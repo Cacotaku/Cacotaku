@@ -39,7 +39,8 @@ I'm currently Studying:
 Projects:
 
 - **[Sistema de Eventos](https://github.com/Cacotaku/Sistema_Eventos)**
-- 
+- **[Sistema Financeiro](https://github.com/Cacotaku/Financas)**
+  
 <!--
 
 Acrescentar imagem em Markdown:
