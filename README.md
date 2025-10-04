@@ -29,6 +29,12 @@ I'm currently Studying:
 ### Social Media
 <a href="https://www.linkedin.com/in/paulo-de-tarso-oliveira-20286135/" rel="" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40"/></a> <a href="https://www.w3profile.com/Cacotaku/" rel="some text" width="40" height="40"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg" width="40" height="40"/></a>
 
+---
+
+Projects:
+
+- **[Sistema de Eventos](https://github.com/Cacotaku/Sistema_Eventos)**
+- 
 <!--
 
 Acrescentar imagem em Markdown:
