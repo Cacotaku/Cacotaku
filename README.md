@@ -38,10 +38,10 @@ I'm currently Studying:
 
 Projects:
 
-- **[File Organizer](https://github.com/Cacotaku/Organizer)**
-- **[Text Normalizer](https://github.com/Cacotaku/ChangeLetters)**
-- **[Sistema de Eventos](https://github.com/Cacotaku/Sistema_Eventos)**
-- **[Sistema Financeiro](https://github.com/Cacotaku/Financas)**
+- **[File Organizer](https://github.com/Cacotaku/Organizer)** - Application created to organize files from a folder based in its extension using Python
+- **[Text Normalizer](https://github.com/Cacotaku/ChangeLetters)** - Application created to clean special characters from a text and transforming the letters into uppercase or lowercase using Python
+- **[Sistema de Eventos](https://github.com/Cacotaku/Sistema_Eventos)** - Exercise creating an application to events and concerts using Java
+- **[Sistema Financeiro](https://github.com/Cacotaku/Financas)** - Exercise creating a simulation of a bank account and its operations using Java
 
   
 <!--
