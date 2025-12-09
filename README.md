@@ -38,8 +38,11 @@ I'm currently Studying:
 
 Projects:
 
+- **[File Organizer](https://github.com/Cacotaku/Organizer)**
+- **[Text Normalizer](https://github.com/Cacotaku/ChangeLetters)**
 - **[Sistema de Eventos](https://github.com/Cacotaku/Sistema_Eventos)**
 - **[Sistema Financeiro](https://github.com/Cacotaku/Financas)**
+
   
 <!--
 
