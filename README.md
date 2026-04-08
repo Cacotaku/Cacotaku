@@ -37,6 +37,7 @@ I'm currently Studying:
 
 Projects:
 
+- **[Amazon-Book-Analyzer](https://github.com/Cacotaku/Amazon-Book-Analyzer)** - A small project for processing an online dataset from Kaggle with a Amazon Book List using Python (Pandas)
 - **[File Organizer](https://github.com/Cacotaku/Organizer)** - Application created to organize files from a folder based in its extension using Python
 - **[Text Normalizer](https://github.com/Cacotaku/ChangeLetters)** - Application created to clean special characters from a text and transforming the letters into uppercase or lowercase using Python
 - **[Sistema de Eventos](https://github.com/Cacotaku/Sistema_Eventos)** - Exercise creating an application to events and concerts using Java
