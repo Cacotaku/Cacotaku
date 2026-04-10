@@ -35,8 +35,14 @@ I'm currently Studying:
 
 ---
 
-Projects:
+# Projects:
 
+### Ongoing
+
+- **[Pokedex](https://github.com/Cacotaku/Pokedex)** - A small project to list all pokemons from generation I to VII using Python and Pandas
+
+
+### Finished
 - **[Amazon-Book-Analyzer](https://github.com/Cacotaku/Amazon-Book-Analyzer)** - A small project for processing an online dataset from Kaggle with a Amazon Book List using Python (Pandas)
 - **[File Organizer](https://github.com/Cacotaku/Organizer)** - Application created to organize files from a folder based in its extension using Python
 - **[Text Normalizer](https://github.com/Cacotaku/ChangeLetters)** - Application created to clean special characters from a text and transforming the letters into uppercase or lowercase using Python
